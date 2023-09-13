@@ -1,5 +1,5 @@
 # FlabbyBird
-Unity tutorial in AR&amp;VR class
+Unity tutorial for CS-GY 9223 AR&amp;VR class in NYU.
 
 ## Build
 + Target Platform: macOS
