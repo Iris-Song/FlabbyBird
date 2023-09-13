@@ -1,10 +1,10 @@
 # FlabbyBird
 Unity tutorial in AR&amp;VR class
 
-# Build
+## Build
 + Target Platform: macOS
 + Architecture: Intel 64-bit + Apple Sillicon
 
-# Refernce:
+## Refernce:
 + https://www.youtube.com/watch?v=XtQMytORBmM
 + https://github.com/budmonde/unity-tutorial
